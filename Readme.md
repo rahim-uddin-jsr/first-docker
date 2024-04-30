@@ -3,6 +3,7 @@
 ## Usage
 
 ```bash
+docker pull devrahi/docker-test
 docker build -t docker-test .
 docker images
 docker image ls
